@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/cpych/OneDrive/Desktop/FREE/FloatingPointBinary/cmake-build-debug",
-		"source" : "C:/Users/cpych/OneDrive/Desktop/FREE/FloatingPointBinary"
+		"build" : "C:/Users/Lari/Desktop/FREE/IEEE754/cmake-build-debug",
+		"source" : "C:/Users/Lari/Desktop/FREE/IEEE754"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 7
 	}
 }
