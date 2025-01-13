@@ -1,0 +1,5 @@
+# ninja log v5
+1	106	7584669130409792	CMakeFiles/FloatingPointBinary.dir/main.c.obj	3345cf33fa16fc78
+108	279	7584669132103912	FloatingPointBinary.exe	3be2b65ec6cdb9e
+2	118	7584676711687750	CMakeFiles/FloatingPointBinary.dir/main.c.obj	3345cf33fa16fc78
+118	256	7584676712979499	FloatingPointBinary.exe	3be2b65ec6cdb9e

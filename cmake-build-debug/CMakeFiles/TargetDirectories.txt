@@ -1,0 +1,3 @@
+C:/Users/cpych/OneDrive/Desktop/FREE/FloatingPointBinary/cmake-build-debug/CMakeFiles/FloatingPointBinary.dir
+C:/Users/cpych/OneDrive/Desktop/FREE/FloatingPointBinary/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cpych/OneDrive/Desktop/FREE/FloatingPointBinary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
